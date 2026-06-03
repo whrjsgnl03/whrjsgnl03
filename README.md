@@ -21,7 +21,7 @@
 
 </div>
 
-<div alighn="center">
+<div align="center">
   
 <br>
   
