@@ -24,6 +24,8 @@
 
 ### 💻 Languages
 
+<br>
+
 ***Android***
 
 <div>
@@ -31,12 +33,16 @@
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
+<br>
+
 ***Frontend*** 
 
 <div>
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
+
+<br>
 
 ***etc***
 
