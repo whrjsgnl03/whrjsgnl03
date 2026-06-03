@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Step+by+Step,;+building+my+way+into+Android" color="3ddc84" width="100%" center="true" multiline="true"/>
 </p>
+
 ## 🚀 About Me
 - 🎓 **학습/소속:** 대덕소프트웨어마이스터고등학교 (DSM)
 - 💡 **관심 분야:** 안드로이드 개발
