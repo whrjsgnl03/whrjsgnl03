@@ -24,21 +24,21 @@
 
 ### 💻 Languages
 
-**Android**
+***Android***
 
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
-**Frontend**  
+***Frontend*** 
 
 <div>
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-**etc**
+***etc***
 
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
