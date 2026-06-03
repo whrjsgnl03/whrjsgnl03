@@ -22,6 +22,7 @@
 </div>
 
 <div alighn="center">
+  
 <br>
   
 ## 🛠️ Tech Stacks
@@ -65,12 +66,13 @@
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+</div>
   
 <br>
   
 <br>
 
-</div>
   
 ## 📫 Contact Me
 - 📧 **Email:** [gun979999@gmail.com]
