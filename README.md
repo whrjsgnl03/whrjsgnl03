@@ -77,3 +77,4 @@
   
 ## 📫 Contact Me
 - 📧 **Email:** [gun979999@gmail.com]
+- 🏫 **School Email:** [20261114@dsm.hs.kr] 
