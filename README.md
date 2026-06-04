@@ -53,7 +53,7 @@
   
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-99CC00?style=for-the-badge&logo=sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-54616C?style=for-the-badge&logo=sharp&logoColor=white">
 </div>
   
 ### 🤖 Platforms & Engines
