@@ -16,7 +16,7 @@
 ## 🚀 About Me
 - 🎓 **학습/소속:** 대덕소프트웨어마이스터고등학교 (DSM)
 - 💡 **관심 분야:** 안드로이드 개발
-- 🌱 **현재 공부 중인 것:** Java, Kotlin, XML, JetPackCompose, Android
+- 🌱 **현재 공부 중인 것:** Java, Kotlin, Xml, JetPackCompose, Android
 - ✍️ **블로그:** [$ MKTMW ANDROID](https://velog.io/@whrjsgnl03/posts)
 
 
