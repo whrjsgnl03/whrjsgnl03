@@ -8,9 +8,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Step+by+Step,;+building+my+way+into+Android" color="3ddc84" width="100%" center="true" multiline="true"/>
-</p>
+</p> -->
 
 
 ## 🚀 About Me
