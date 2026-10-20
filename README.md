@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=220&section=header&text=Hi%20there%2C%20I'm%20Geonhwi%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20DSM&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=220&section=header&text=Hi%20there%2C%20I'm%20Gunhwy%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20DSM&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Step+by+Step%2C;Building+my+way+into+Android+🤖;Kotlin+%26+Jetpack+Compose+Lover+💚" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&height=60&lines=Step+by+Step%2C;Building+my+way+into+Android;Kotlin+%26+Jetpack+Compose+Lover" />
 </p>
 
 <br>
